@@ -1,0 +1,18 @@
+title: AI 6 특성 — 쓸수록 똑똑해지는 사람의 6가지
+description: 독서연구소 채널 + MIT·Microsoft·CMU·Harvard·BCG 5개 연구 종합. AI 시대 학습자가 인지 부채를 피하고 사고 근육을 키우는 6가지 특성 — 세특 소크라테스 시스템과 1:1 매핑.
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:basename
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+exclude:
+  - README.md
+  - ref-pos-day2.html
+  - "*.gemspec"
+  - "Gemfile*"

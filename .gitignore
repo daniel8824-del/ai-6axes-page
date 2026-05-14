@@ -1,0 +1,17 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.DS_Store
+node_modules/
+*.log
+.bundle/
+Gemfile.lock
+
+# Local reference (pos-day2 source for pattern, not for publishing)
+docs/ref-pos-day2.html
+pos-day2-source.html
+
+# OMC state
+.omc/
